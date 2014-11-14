@@ -1,0 +1,19 @@
+body{background: rgb(53, 223, 216)}
+
+h1 {color:red; 
+    text-align: center; 
+    font-family: Mistral; 
+    font-size: 90px}
+
+h2 {text-align: center; 
+    font-size: 35px; 
+    font-family:chalkduster}
+
+table {text-align: center}
+
+a {color:red;
+   text-decoration:none}
+
+a:hover {text-decoration: underline;
+        color: yellow}
+    

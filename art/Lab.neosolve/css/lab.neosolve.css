@@ -1,0 +1,34 @@
+        <!--list-style: {"nobullets"}-->
+body {text-align: center;
+      font-family: Hobo Std;
+      color:yellow; }
+
+h3 {font-size: 30px;
+    text-align:center;
+    font-size: 30px; 
+    color:yellow}
+
+a {color:yellow;
+    }
+
+a:hover {color: #9B7E00}
+
+ul {list-style: none}
+
+h3 span{border-bottom-style:solid; 
+        border-bottom-color:yellow}
+
+.st-content {background-color: #993366}
+
+.mp-menu a {
+	text-decoration: none;
+	color: #660000;
+	outline: none;
+}
+
+.mp-menu a:hover, a:focus {
+	color: #9B7E00;
+	outline: none;
+}
+
+.rotate {color:yellow}

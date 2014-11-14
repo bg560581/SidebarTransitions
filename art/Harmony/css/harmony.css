@@ -1,0 +1,51 @@
+/*THIS IS THE CSS FOR HARMONY PAGE*/
+body {background-color:#33ccff; 
+    font-family:Chalkduster;}
+
+a.harmony {color: #036D90;
+    text-decoration: none;
+    }
+a {color: #20025B;
+}
+
+a:hover {color: yellow;}
+
+h3 {text-align:center; 
+    font-size:30px; 
+    color:red}
+
+ul {text-align:center; 
+    color:red; 
+    list-style: none}
+
+p {text-align: ; 
+    color: #20025B; 
+    font-size:24px}
+
+img {width: 300px; height: 200px}
+            
+.link {font-size:24px;
+        text-align: center;
+}
+
+.link:hover {text-decoration: underline;}
+
+.st-content {background-color: #33ccff}
+
+#website {color: #20025B;
+          text-decoration: none}
+
+a#website:hover {color: yellow
+                }
+
+.rotate{font-size: 18px;
+        color:#054C95;
+        text-align: right;
+        margin-top: 50%;
+        font-family: chalkDuster;}
+
+.mp-menu ul a {color: #00ac99}
+
+.mp-menu ul a:hover, a:focus {color:yellow}
+
+        

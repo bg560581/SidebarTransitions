@@ -1,0 +1,20 @@
+        
+body{text-align:center; 
+    color:#0000cc;
+    background-color: #cc3333;
+    font-size: 20px;
+    font-family: Libian SC;}
+
+h3 {text-align:center;
+    font-size:50px;
+    color:#0000cc}
+
+h3 span {border-bottom-style:ridge;
+         border-bottom-color: blue}
+p {font-size: 24px}
+
+ul {list-style: none;}
+
+a {color: blue}
+
+            

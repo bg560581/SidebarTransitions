@@ -1,0 +1,38 @@
+
+h3 {text-align: center; 
+    font-size: 50px}
+
+body {color: green; 
+      text-align: center; 
+      font-family: Desdemona; 
+      font-size: 24px}
+
+ul {list-style: none}
+
+h3 span {border-bottom-style:double; 
+         border-bottom-color: green}
+
+.rotate {font-size: 18px;
+        color:#007300;
+        text-align: right;
+        margin-top: 30%;}
+
+#website {font-size: 40px;
+          color: #002E00}
+
+
+
+
+.st-content {background-color: rgba(38, 201, 175, 0.61); }
+.st-content a {color:green;}
+.st-content a:hover, a:focus {color: #00D300}
+
+.mp-menu {background-color: rgba(38, 201, 175, 0.61); }
+.mp-menu ul  {font-size: 18px;}
+.mp-menu a {text-decoration: none;
+            color: #002E00;
+            font-size: 18px;}
+.mp-menu a:hover,a:focus {color: #009900}
+
+
+            
