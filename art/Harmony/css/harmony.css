@@ -12,7 +12,7 @@ a:hover {color: yellow;}
 
 h3 {text-align:center; 
     font-size:30px; 
-    color:red}
+    color: #054797;}
 
 ul {text-align:center; 
     color:red; 
@@ -47,5 +47,6 @@ a#website:hover {color: yellow
 .mp-menu ul a {color: #00ac99}
 
 .mp-menu ul a:hover, a:focus {color:yellow}
+
 
         
