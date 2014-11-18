@@ -13,8 +13,8 @@ a {color:yellow;
     text-decoration:none;
     }
 
-/*a:hover {color: #E99AA3;
-}*/
+a:hover {color: #E99AA3;
+}
 
 ul {list-style: none}
 
@@ -26,6 +26,8 @@ h3 span:hover {color: rgba(233, 154, 163,1);
                 }
 
 .st-content {background-color: #993366}
+
+img {width:  20%; height: 20%}
 
 .mp-menu a {
 	text-decoration: none;

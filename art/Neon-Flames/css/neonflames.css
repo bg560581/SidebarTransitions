@@ -1,6 +1,6 @@
 
 h3 {text-align: center; 
-    font-size: 50px}
+    font-size: 175%}
 
 body {color: #591F00; 
       text-align: center; 
@@ -12,8 +12,10 @@ ul {list-style: none}
 h3 span {border-bottom-style:double; 
          border-bottom-color: #591F00}
 
+img {width: 20%; height: 20%}
+
 .rotate {font-size: 18px;
-         color:#CB4700;
+         color:#FF7A32;
          text-align: right;
          margin-top: 30%;
          font-family: Desdemona,sans-serif;}
@@ -21,7 +23,7 @@ h3 span {border-bottom-style:double;
 #website {font-size: 40px;
           color: #300F07;}
 
-#website:hover {color: #DD3B15}
+#website:hover {color: #8B2810}
 
 .st-content {background-color: rgba(219, 76, 0, 0.61); }
 .st-content a {color:#591F00;}
