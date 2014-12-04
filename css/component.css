@@ -443,7 +443,7 @@ body,
     min-height:100%;
     width: 150px;
     margin-left:-7%;
-    background-color: rgba(250,250,250,0.6);
+    background-color: rgba(250,250,250,0.3);
     position: fixed;
     z-index:0;
     left: 0px;
@@ -452,7 +452,7 @@ body,
     
 }
 
-.parentDiv:hover {background-color: rgba(0,0,0,.4);
+.parentDiv:hover {background-color: rgba(255,255,255,0.7);
                 transition-property: background;
                 transition-duration: .3s;
                 transition-timing-function: ease-in-out;
@@ -520,7 +520,7 @@ filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
     top: 0px;
     left: 0px;
     z-index: 0;
-    margin-left:8%;
+    margin-top: auto
 }
 .cb-slideshow:after { 
     content: '';
