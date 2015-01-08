@@ -172,7 +172,7 @@
                             </ul>
                             </div>
                         </li>
-                        <li class="icon icon-stumbleupon"><a href="#">stumbleupon</a></li>
+                        <li class="icon icon-stumbleupon"><a target="_blank" href="http://www.stumbleupon.com">stumbleupon</a></li>
                     </ul> 
                     </div>
                 </li>
@@ -282,7 +282,7 @@
                         
                         <div class="main clearfix">
 							<div id="st-trigger-effects" class="column">
-                            <div id="trigger" class="menu-trigger parentDiv">
+                            <div id="trigger" class="parentDiv">
                                <p id="rotate">NAVIGATION MENU</p>
                             </div>
 							</div>
@@ -306,11 +306,11 @@
 $(document).ready(function(){
     console.log("JQUERY!");
     $("#trigger").click(function(){
-        $(".rotate").fadeToggle(650);
+        $("#rotate").fadeToggle(650);
     });
     $(document).click(function(e){
         console.log('rotate click');
-        $('.rotate:hidden').fadeIn();
+        $('#rotate:hidden').fadeIn();
         });
 })
 </script>

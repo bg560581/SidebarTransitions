@@ -185,22 +185,6 @@ body,
 
 /*-------------------------------------------------------------*/
 
-.menu-trigger {
-	position: relative;
-	padding-left: 60px;
-	font-size: 0.9em;
-}
-
-.menu-trigger:before {
-	position: absolute;
-	top: 2px;
-	left: 0;
-	width: 40px;
-	height: 6px;
-	background: #fff;
-	box-shadow: 0 6px #34495e, 0 12px #fff, 0 18px #34495e, 0 24px #fff;
-}
-
 .mp-pusher {
 	position: relative;
 	left: 0;
@@ -440,12 +424,11 @@ body,
 /*-------------------------------------*/
 .parentDiv {
     
-    position:absolute;
+    position:fixed;
     min-height:100%;
-    width: 150px;
+    width: 10%;
     margin-left:-7%;
     background-color: rgba(250,250,250,0.3);
-    position: fixed;
     z-index:0;
     left: 0px;
     top: 0px
