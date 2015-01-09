@@ -428,15 +428,14 @@ body,
     min-height:100%;
     width: 10%;
     margin-left:-7%;
-    background-color: rgba(250,250,250,0.3);
+    background-color: rgba(250,25,25,0.3);
     z-index:0;
     left: 0px;
-    top: 0px
-    
+    top: 0px;
     
 }
 
-.parentDiv:hover {background-color: rgba(255,255,255,0.7);
+.parentDiv:hover {background-color: rgba(250,25,25,0.7);
                 transition-property: background;
                 transition-duration: .3s;
                 transition-timing-function: ease-in-out;
@@ -454,7 +453,7 @@ body,
           padding-top: 75%;
         font-family: sans-serif;
         font-weight: 700;
-          color:#9E3434 ;
+          color:#000000 ;
    
     /* Safari */
 -webkit-transform: rotate(-90deg);
@@ -538,7 +537,7 @@ abbr,acronym { border:0;
     height: 100%;
     position: absolute;
     top: 105px;
-    left: 0px;
+    left: 3%;
     color: transparent;
     background-size: cover;
     background-position: 50% 50%;
