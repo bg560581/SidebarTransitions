@@ -1,4 +1,6 @@
-        <!--list-style: {"nobullets"}-->
+/*THIS IS THE CSS FOR LAB.NEOSOLVE*/
+
+<!--list-style: {"nobullets"}-->
 body {text-align: center;
       font-family: Hobo Std;
       color:yellow; }
@@ -41,9 +43,6 @@ img {width:  20%; height: 20%}
 }
 
 .mp-level {background-color: #E99AA3}
-
-.rotate {color:yellow;
-        font-family: Hobo Std;}
 
 #pages-lab {background-color: #95CC87}
 

@@ -18,14 +18,16 @@ body {
 	font-family: 'Lato', Calibri, Arial, sans-serif;
 }
 
+#pages:hover, #pages:focus {color:red}
+
 a {
 	text-decoration: none;
-	color: #660000;
+	color: #000000;
 	outline: none;
 }
 
 a:hover, a:focus {
-	color: #cc0000;
+	color: #999999;
 	outline: none;
 }
 
